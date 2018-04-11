@@ -8,8 +8,8 @@
 
 - Qiita/Qiitadon ユーザーであれば自由に編集・修正可能です。
 - ファイル名は Qiita の記事 ID と連動しています。
-- このリポジトリを `clone` 後、PR（プッシュリクエスト）をあげてください。<br>最低限のマナーに問題がなければマージされ Qiita に反映されます。
-- これらの投稿は Qithub-BOT の Qiita アカウントに投稿されます。
+- このリポジトリを `clone` 後、PR（プッシュリクエスト）をあげてください。<br>最低限のマナーに問題がなければマージされ [Qiita に反映](https://qiita.com/Qithub)されます。
+- これらの投稿は [Qithub-BOT の Qiita アカウント](https://qiita.com/Qithub)に投稿されます。
 
 ## ライセンスについて
 
